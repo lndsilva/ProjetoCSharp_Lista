@@ -1,0 +1,11 @@
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\bin\Debug\ProjetoCSharpExemplos.exe.config
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\bin\Debug\ProjetoCSharpExemplos.exe
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\bin\Debug\ProjetoCSharpExemplos.pdb
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.csproj.AssemblyReference.cache
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.Form1.resources
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.Properties.Resources.resources
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.csproj.GenerateResource.cache
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.csproj.CoreCompileInputs.cache
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.exe
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.pdb
+C:\Users\laercio.nsilva\source\repos\ProjetoCSharpExemplos\ProjetoCSharpExemplos\obj\Debug\ProjetoCSharpExemplos.frmLogin.resources
